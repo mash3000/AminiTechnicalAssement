@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project profiles, cleans, and documents the National Health Facility Registry CSV dataset. The dataset was assembled from five years of licensing spreadsheets, inspection forms, and OCR-scanned paperwork, containing information about hospitals, clinics, and community health centres across the country.
+This project profiles, cleans, and documents the National Health Facility Registry CSV dataset.
 
 **Deliverables:**
 - `health_registry_eda_clean.ipynb` - Jupyter notebook with EDA and cleaning pipeline
@@ -286,4 +286,5 @@ For questions about:
 ## License
 
 This project processes publicly available health facility registry data. Ensure compliance with data privacy regulations when using this dataset.
+
 
