@@ -9,6 +9,7 @@ This project profiles, cleans, and documents the National Health Facility Regist
 - `cleaned_health_registry.csv` - Cleaned dataset ready for analytics
 - `health_registry_documentation.md` - Comprehensive documentation report
 - `README.md` - This file
+- `Loom video Link` - 
 
 ---
 
@@ -286,5 +287,6 @@ For questions about:
 ## License
 
 This project processes publicly available health facility registry data. Ensure compliance with data privacy regulations when using this dataset.
+
 
 
