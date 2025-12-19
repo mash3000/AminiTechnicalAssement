@@ -76,7 +76,7 @@ Missing values are now standardized as NaN:
 - **Resolution**: Standardized to consistent formats, normalized for deduplication
 
 #### 2. Facility Name Issues
-- **Emojis**: 🏥, 💊, ❤ (♥) characters
+- **Emojis**: Emoji characters used
 - **Encoding Issues**: Special Unicode characters, corrupted text
 - **Line Breaks**: Newline characters within names
 - **Resolution**: Removed emojis, normalized whitespace, handled encoding
@@ -393,5 +393,6 @@ Missing values are now standardized as NaN:
 - "List hospitals with inspection dates in 2024"
 
 This hybrid approach leverages both structured relationships (graph) and semantic understanding (vectors) for comprehensive health facility information retrieval.
+
 
 
