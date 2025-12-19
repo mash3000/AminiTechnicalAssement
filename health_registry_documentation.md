@@ -2,8 +2,7 @@
 
 ## Executive Summary
 
-This document summarizes the profiling and cleaning of the National Health Facility Registry dataset. The dataset contains information about hospitals, clinics, and community health centres across the country.
-
+This document summarizes the profiling and cleaning of the National Health Facility Registry dataset. 
 ### Key Findings
 
 - **Initial Dataset**: 13,366 rows, 8 columns
@@ -393,6 +392,7 @@ Missing values are now standardized as NaN:
 - "List hospitals with inspection dates in 2024"
 
 This hybrid approach leverages both structured relationships (graph) and semantic understanding (vectors) for comprehensive health facility information retrieval.
+
 
 
 
