@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This document summarizes the profiling and cleaning of the National Health Facility Registry dataset, compiled from five years of licensing spreadsheets, inspection forms, and OCR-scanned paperwork. The dataset contains information about hospitals, clinics, and community health centres across the country.
+This document summarizes the profiling and cleaning of the National Health Facility Registry dataset. The dataset contains information about hospitals, clinics, and community health centres across the country.
 
 ### Key Findings
 
@@ -393,4 +393,5 @@ Missing values are now standardized as NaN:
 - "List hospitals with inspection dates in 2024"
 
 This hybrid approach leverages both structured relationships (graph) and semantic understanding (vectors) for comprehensive health facility information retrieval.
+
 
